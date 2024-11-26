@@ -35,10 +35,10 @@ Our solution aims to be effective in:
 
 ## Technologies Used
 
-- **IoT (Internet of Things)** for real-time monitoring and data collection.
-- **Mobile App Development** for monitoring and communication with waste collectors.
-- **Deep Learning** for predicting bin fill levels and optimizing collection schedules.
-- **Route Optimization Algorithms** for improving waste collection routes.
+- **IoT (Internet of Things) with the Sensorthing APi **  : An OGC standard for sensor and localisation services for a real-time monitoring and data collection.
+- **Mobile App Development** using React and NodeJS for monitoring and communication with waste collectors.
+- **Deep Learning model ** for predicting bin fill levels and optimizing collection schedules.
+- **Route Optimization Algorithms with LeafletJs** for improving waste collection routes.
 
 ## Installation
 
