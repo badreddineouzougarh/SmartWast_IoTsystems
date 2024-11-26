@@ -1,0 +1,28 @@
+.container {
+    color: black;
+    margin-left: 5cm;
+    margin-right: 8cm;
+    background-size: 10cm 10cm;
+    /* Couleur de fond de la boîte */
+    padding: 20px;
+   
+    /* Réglez la hauteur comme vous le souhaitez */
+}
+.title {
+    color: rgb(255, 255, 255);
+    margin-left: 0cm;
+    margin-right: 8cm;
+    line-height: 1.5;
+    white-space: nowrap;
+    background-color: #caf0f800;
+    border-radius: 15px;
+    /* Espacement entre les lignes */
+}
+.text{
+    background-color: #caf0f8;
+    background-size: 10cm 10cm;
+        /* Couleur de fond de la boîte */
+    padding: 20px;
+    border-radius: 20px;
+
+}

@@ -1,0 +1,58 @@
+/* Products.css */
+
+.page-content {
+  padding: 20px;
+  text-align: center;
+}
+
+.table-container {
+  width: 100%;
+  /* Ajustez la largeur en fonction de vos besoins */
+  margin: 0 auto;
+}
+
+.table {
+  width: 150vh;
+  max-width: 150vh;
+  /* Utilisez 100% de la largeur du conteneur, mais pas plus */
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: left;
+}
+.table td {
+  background-color: #f2f2f200;
+  color: #fff3f3;
+}
+
+.table th {
+  background-color: #f2f2f200;
+  color: #ffffff;
+}
+
+.table tbody tr:nth-child(even) {
+  background-color: #f2f2f200;
+}
+
+.table tbody tr:hover {
+  background-color: #fffafa00;
+}
+
+@media screen and (max-width: 600px) {
+  .table-container {
+    width: 5vh;
+  }
+
+  .table {
+    font-size: 12px;
+  }
+} 
+.title{
+  font-family: sans-serif;
+  font-size: 1.5cm;
+  
+}
