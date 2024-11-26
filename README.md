@@ -37,7 +37,7 @@ Our solution aims to be effective in:
 
 - **IoT (Internet of Things) with the Sensorthing APi **  : An OGC standard for sensor and localisation services for a real-time monitoring and data collection.
 - **Mobile App Development** using React and NodeJS for monitoring and communication with waste collectors.
-- **Deep Learning model ** for predicting bin fill levels and optimizing collection schedules.
+- **Deep Learning model** for predicting bin fill levels and optimizing collection schedules.
 - **Route Optimization Algorithms with LeafletJs** for improving waste collection routes.
 
 ## Installation
